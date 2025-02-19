@@ -41,16 +41,18 @@
     ],
     "keywords": [
         "react-native",
-        "tab view",
+        "modal",
         "ui component",
         "mobile",
         "react-native-component",
-        "tabs",
-        "tab component",
-        "react-native tabs",
-        "react-native-tabs",
-        "react-native tab",
-        "tab",
-        "tab control"
+        "modal-dropdown-picker",
+        "modal component",
+        "dropdown-component",
+        "picker",
+        "react-native dropdown",
+        "react-native-modal-dropdown",
+        "react-native picker",
+        "react-native-modal-dropdown-picker",
+        "dropdown control"
     ]
 }
