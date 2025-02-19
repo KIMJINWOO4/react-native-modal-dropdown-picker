@@ -1,0 +1,56 @@
+{
+    "name": "react-native-modal-dropdown-picker",
+    "version": "1.0.1",
+    "description": "A customizable React Native modal dropdown picker component that lets you easily display one or more dropdown pickers in a modal. You can configure linked dropdowns (where the options of the second picker depend on the first) or independent dropdowns with a rich set of customization options. Perfect for building dynamic forms and interactive UIs!",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
+    "directories": {
+        "example": "example",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KIMJINWOO4/react-native-modal-dropdown-picker"
+    },
+    "scripts": {
+        "build": "tsc",
+        "prepare": "npm run build",
+        "test": "jest"
+    },
+    "author": "Jinwoo Kim",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^18.2.0"
+    },
+    "devDependencies": {
+        "@babel/preset-flow": "^7.25.9",
+        "@types/jest": "^29.5.14",
+        "@types/react": "^18.3.18",
+        "@types/react-native": "^0.73.0",
+        "@types/react-test-renderer": "^19.0.0",
+        "jest": "^29.7.0",
+        "metro-react-native-babel-preset": "^0.77.0",
+        "react-native": "^0.77.1",
+        "react-test-renderer": "^18.3.1",
+        "ts-jest": "^29.2.5",
+        "typescript": "^5.7.3"
+    },
+    "files": [
+        "lib",
+        "src"
+    ],
+    "keywords": [
+        "react-native",
+        "tab view",
+        "ui component",
+        "mobile",
+        "react-native-component",
+        "tabs",
+        "tab component",
+        "react-native tabs",
+        "react-native-tabs",
+        "react-native tab",
+        "tab",
+        "tab control"
+    ]
+}
